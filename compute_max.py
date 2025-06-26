@@ -5,3 +5,5 @@ for num in ['10', '2', '34', '6', '25']:
         max = num
 
 print('max value is', max)
+
+## test for commit and push
